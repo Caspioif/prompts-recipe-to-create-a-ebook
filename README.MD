@@ -28,16 +28,15 @@
 
  > ℹ️ **NOTE:** Este projeto foi realizado enquanto era bootcamper na [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
 <a href="https://github.com/Caspioif/prompts-recipe-to-create-a-ebook/blob/ec865c89424da0e16f1bb37cd0aa2a0ea085a038/Simplificando%20com%20IA%20(%20E-book%20).pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Leonardo.AI](https://leonardo.ai/)
+- [LibreOffice](https://pt-br.libreoffice.org/baixe-ja/libreoffice-novo/)
 
 ## 🧠 Prompts
 
@@ -46,25 +45,25 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Vamos lá, me escreva um titulo de um post sobre IA com um estilo em função de chamar atenção de um público curioso quanto ao assunto, o nicho é ia, e eu gostaria de subnichos antes de vc me dar uma resposta sobre os itens anteriores.                                                       |
+| conteúdo | Valeu, agora vc pode fazer txts focando nos respectivos temas que vc sugeriu antes? {regras} >Explique sempre de uma maneira simples ( pode ser divertida, pois não quero que o leitor fique desinteressado, então use as técnicas q sabe para evitar isso, por favor ) >deixe o texto enxuto >se possivel, traga exemplos interessantes, considere que nem todas as pessoas serão iguais, mas meu público alvo é adolescente. Creio q vc conhece a situação dos jovens atualmente, então se baseie nisso. |
 
 
-Midjourney：
+Leonar AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Create an image based on the title: AI in Routine - How AI Can Simplify Your Life and Multiply Results. With a line art style.  |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo AI
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas em `lineart 1 e 2`
+- ebook gerado durante as aulas em `Simplificando com IA ( E-book )`
 
 ## 🛠️ Instruções de execução
 
@@ -96,3 +95,4 @@ felipe-exe">LinkedIn</a>
 ---
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Valeu, Felipão.
