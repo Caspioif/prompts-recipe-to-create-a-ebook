@@ -17,10 +17,16 @@
 />
 </p>
 
+<p align="center">
+<img 
+    src="./lineart1.jpeg"
+    width="400"  
+/>
+</p>
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este projeto foi realizado enquanto era bootcampers na [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este projeto foi realizado enquanto era bootcamper na [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
