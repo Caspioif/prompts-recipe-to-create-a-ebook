@@ -71,5 +71,5 @@ Use os prompts nas ferramentas indicadas para gerar o conteúdo principal e, pos
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode).
 Valeu, Felipão.
