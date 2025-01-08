@@ -19,7 +19,7 @@
 
 <p align="center">
 <img 
-    src="./lineart1.jpeg"
+    src="./lineart2.jpeg"
     width="400"  
 />
 </p>
