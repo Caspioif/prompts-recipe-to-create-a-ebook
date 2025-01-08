@@ -49,7 +49,7 @@ ChatGPT：
 | conteúdo | Valeu, agora vc pode fazer txts focando nos respectivos temas que vc sugeriu antes? {regras} >Explique sempre de uma maneira simples ( pode ser divertida, pois não quero que o leitor fique desinteressado, então use as técnicas q sabe para evitar isso, por favor ) >deixe o texto enxuto >se possivel, traga exemplos interessantes, considere que nem todas as pessoas serão iguais, mas meu público alvo é adolescente. Creio q vc conhece a situação dos jovens atualmente, então se baseie nisso. |
 
 
-Leonar AI：
+Leonardo AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
