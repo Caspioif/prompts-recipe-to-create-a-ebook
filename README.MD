@@ -31,7 +31,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/https://github.com/Caspioif/prompts-recipe-to-create-a-ebook/blob/9852f3e35d7a46c2a7bf2e82d1b368f8b38c0f3a/Simplificando%20com%20IA%20(%20E-book%20).pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Caspioif/prompts-recipe-to-create-a-ebook/blob/ec865c89424da0e16f1bb37cd0aa2a0ea085a038/Simplificando%20com%20IA%20(%20E-book%20).pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
